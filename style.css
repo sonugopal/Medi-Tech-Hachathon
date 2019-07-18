@@ -1444,7 +1444,7 @@ input:required {
   height: 470px; }
   @media only screen and (max-width: 767px) {
     .breadcrumb-area {
-      height: 300px; } }
+      height: auto; } }
   .breadcrumb-area .page-title {
     color: #ffffff;
     font-size: 45px;
