@@ -84,7 +84,7 @@ li {
 p {
   line-height: 1.8;
   color: #5d5e8d;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 400; }
 
 img {
@@ -2759,4 +2759,7 @@ input:required {
 }
 .event-format p{
   font-size: 20px;
+}
+.classy-navbar .nav-brand{
+  max-width: 150px;
 }
